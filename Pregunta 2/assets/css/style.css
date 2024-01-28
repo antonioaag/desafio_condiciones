@@ -1,0 +1,38 @@
+.stickers{
+    display: flex;
+}
+
+.goku{
+    display: flex;
+    flex-direction: column;
+    margin: .5px;
+    padding: 5px;
+}
+.goku, img{
+    width: 200px;
+    height: 200px;
+}
+
+.naruto{
+    display: flex;
+    flex-direction: column;
+    margin: .5px;
+    padding: 5px;
+}
+
+.naruto, img{
+    width: 200px;
+    height: 200px;
+}
+
+.one_piece{
+    display: flex;
+    flex-direction: column;
+    margin: .5px;
+    padding: 5px;
+}
+
+.one_piece, img{
+    width: 200px;
+    height: 100px;
+}
